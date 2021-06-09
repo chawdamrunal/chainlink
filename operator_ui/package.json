@@ -73,7 +73,7 @@
     "redux-mock-store": "^1.5.3",
     "redux-object": "^0.5.6",
     "redux-thunk": "^2.3.0",
-    "serve": "^10.0.0",
+    "serve": "^12.0.0",
     "url": "^0.11.0",
     "use-react-hooks": "^1.0.7",
     "uuid": "^3.3.2"
